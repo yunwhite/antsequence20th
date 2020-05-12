@@ -24,6 +24,7 @@ namespace antsequence20th
                         c++;
                     else
                     {
+                        // num2 += "" + n + c;
                         num2 += n;
                         num2 += c;
                         n = num[j];
